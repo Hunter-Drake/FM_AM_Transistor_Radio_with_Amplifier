@@ -1,5 +1,5 @@
 ## Members
-Henry Forsyth, Computer Engineering Student (2024)
+Hunter Drake, Electrical Engineering Student
 rhforsythjr@vt.edu
 
 ## Mentor
@@ -10,11 +10,11 @@ IN PROGRESS
 
 ## Project Overview
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vehicula, odio eu dictum aliquet, enim elit tempor diam, quis volutpat mi eros ut nisi. Aliquam luctus orci eget accumsan porta. Proin sollicitudin ultricies lacus et varius. Pellentesque tempor vehicula tempus. Integer semper id lorem vehicula tristique. Suspendisse nec placerat libero, eget aliquet eros. Phasellus iaculis quis lorem in ultrices. Nunc lobortis odio at sem pretium dictum. Integer sed tellus quis lorem pretium posuere.
+I intend to design, build, and test an AM/FM tranistor radio. This project includes several different components. There is an FM radio receiver, which would capture and demodulate a commerical FM signal. There is an AM radio receiver, which would capture and demodulate a commercial AM signal. Each of these receivers would require a tuning circuit as well. The output to the receivers would go into a switching circuit to decide between AM and FM. The switching circuit would then go into an audio amplifier, which would allow a speaker or headphones to be hooked up to it.
 
 ## Educational Value Added
 
-Vivamus dapibus iaculis dui. Nullam vitae arcu a nisi elementum semper eu eu velit. Suspendisse vel dictum lacus. Sed facilisis luctus consequat. Donec vulputate eu dolor in molestie. Maecenas pretium sem non tellus facilisis sollicitudin id ut nulla. In condimentum orci nisi, sagittis facilisis neque convallis eget. Duis ut sem cursus, placerat mi pellentesque, mollis eros. Integer efficitur blandit elit, sed egestas sem porta in. Mauris euismod nulla ac tellus tempus, eu egestas dui molestie. Proin faucibus enim quis consequat sodales. Pellentesque eleifend blandit augue et laoreet. Phasellus vel posuere nisi, ac aliquam arcu.
+I would like to gain three things from this project. First and foremost, I plan to improve my analog design skills. I plan to do this by designing the receivers, the switching circuit, the tuning circuits, and the amplifier which are all analog designs. Secondly, I want some experience with RF. RF engineering often accompanies analog design, therefore it is a useful skill to have. My knowledge in this area will come from the RF theory I will have to understand in order to design the receivers. It will also be useful to be able to design circuits that run at RF frequencies. Lastly, I want to learn how to do PCB design. Like RF engineering, this is a skill that often accompanies analog design, so it will be useful to know. I plan to learn this skill by putting the circuits on PCBs.
 
 ## Tasks
 
